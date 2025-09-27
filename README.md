@@ -13,6 +13,5 @@
 ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay with a little bit of everything, emphasizing small details to create a good modern RPG like experience where I can just play Skyrim without worrying about anything else. Consistency is key, optimized to have good FPS.
 
 ## Pre-Installation Requirements
->[!IMPORTANT]
-> Full Anniversary Edition Required
-
+> [!Warning]
+> You must update Skyrim Special Edition to the latest version. Anniversary Edition upgrade is required.
