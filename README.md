@@ -1,6 +1,6 @@
 # ReSkyrimed
 
-![Banner](.png)
+![Banner](https://github.com/Abi822/ReSkyrimed/tree/main)
 
 <p align="center">
   <a href="">ReadMe</a> |
@@ -13,4 +13,4 @@
 </p>
 
 - [Introduction](#introduction)
-- oj
+- 456
