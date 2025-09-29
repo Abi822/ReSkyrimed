@@ -3,6 +3,8 @@
 <p align="center">
   <a href="#/README">Read Me</a> |
   <a href="#/guide">Gameplay Guide</a> |
+  <a href="#/keybindings">Gameplay Guide</a> |
+  <a href="#/modification">Gameplay Guide</a> |
   <a href="https://next.nexusmods.com/profile/Yuuri0?pk_vid=f0541747e7efdde9175914584554c7c2" target="_blank">Nexus</a> |
   <a href="https://discord.gg/55kHAH7T6t" target="_blank">Discord</a> |
   <a href="https://loadorderlibrary.com/lists/" target="_blank">Load Order</a> 
@@ -25,14 +27,15 @@ ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering
 > 8GB VRAM Cards are not supported or recommended!
 
 > [!WARNING]
-An SSD is required to the play the modlist.
+An SSD is required to the play the modlist.\
+Only Windows 10 or 11 operating systems are supported. 
 
 ## Pre-Installation Requirements
 > [!WARNING]
 > You must update Skyrim Special Edition to the latest version (1.6.1170). Anniversary Edition upgrade is required. 
 
 
-### Antiviruses
+### Antivirus
 
 ### Pagefile and Crash Prevention
 ReSkyrimed has been optimized for better memory usage, but it still demands a lot of RAM, especially if you're on a 16GB system with background tasks running. If the game can't allocate enough memory, you may experience crashes or instability.
@@ -59,10 +62,22 @@ To set up your pagefile:
 Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (x86)` this can cause [Windows 255 character limit issue](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry). Make sure everything is done from Root Directory.
 
 > [!TIP]
-> ### Nexus
-> You need need a [Nexus](https://www.nexusmods.com) account. Premium is recommended otherwise you will have to manually click the download for every mood during installation.
+> ### Nexus Download
+> Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets your mod manager auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
 > ### Out of space?
 > If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
 
 > [!NOTE]
 > An alert of type 'note' using global style 'callout'.
+
+### Steam Setup
+
+### Installing Creation Club Files
+
+### Game Language
+
+## Modlist Assistance & Support
+
+## FAQ
+
+## Credits & Thanks
