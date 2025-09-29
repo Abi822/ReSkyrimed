@@ -1,2 +1,2 @@
 - [ReSkyrimed](/)
-- [Guide](GUIDE)
+- [Guide](guide)

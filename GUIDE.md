@@ -5,7 +5,7 @@
   <a href="">Nexus</a> |
   <a href="">Discord</a> |
   <a href="https://loadorderlibrary.com/lists/">Load Order</a> |
-  <a href="/GUIDE">Gameplay Guide</a>
+  <a href="/guide">Gameplay Guide</a>
 </p>
 
 ---
