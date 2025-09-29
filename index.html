@@ -1,51 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="ReSkyrimed" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css" />
 </head>
-
 <body>
   <div id="app"></div>
   <script>
-  window.$docsify = {
-    'flexible-alerts': {
-      note: {
-        label: "Hinweis"
-      },
-      tip: {
-        label: "Tipp"
-      },
-      warning: {
-        label: "Warnung"
-      },
-      attention: {
-        label: "Achtung"
-      }
-    }
-  };
-</script>
-  <script>
     window.$docsify = {
       name: '',
-      repo: ''
-    }
-    window.$docsify = {
-      'flexible-alerts': {
-        style: 'flat'
+      repo: '',
+      themeColor: "#42b983",
+      darkMode: {
+        dark: {
+          background: "#1c2022",
+          toggleBtnBg: "#34495e",
+          textColor: "#cfd3dc"
+        },
+        light: {
+          background: "white",
+          toggleBtnBg: "var(--theme-color)",
+          textColor: "#2c3e50"
+        }
+      },
+      loadSidebar: true,
+      subMaxLevel: 3,
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      sidebarDisplayLevel: 1,
+      routerMode: 'history',
+      search: {
+        paths: 'auto',
+        placeholder: 'Search…',
+        noData: 'No results!',
+        depth: 2
       }
     };
   </script>
-  </script>
-  <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
 </body>
-
 </html>
