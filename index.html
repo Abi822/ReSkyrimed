@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
@@ -9,28 +10,19 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 </head>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: '',
       repo: '',
-      themeColor: "#42b983",
-      darkMode: {
-        dark: {
-          background: "#1c2022",
-          toggleBtnBg: "#34495e",
-          textColor: "#cfd3dc"
-        },
-        light: {
-          background: "#1c2022",
-          toggleBtnBg: "#34495e",
-          textColor: "#cfd3dc"
-        }
-      },
       loadSidebar: true,
       subMaxLevel: 3,
-      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md',
+      },
       sidebarDisplayLevel: 1,
       routerMode: 'history',
       search: {
@@ -46,4 +38,5 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 </body>
+
 </html>
