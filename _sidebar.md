@@ -1,2 +1,2 @@
 - [ReSkyrimed](/)
-- [Guide](GUIDE.md)
+- [Guide](GUIDE)
