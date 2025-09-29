@@ -2,15 +2,15 @@
 ![Banner](https://github.com/Abi822/ReSkyrimed/blob/main/Images/logo.png?raw=true)
 <p align="center">
   <a href=">/#/README">Read Me</a> |
-  <a href="https://next.nexusmods.com/profile/Yuuri0?pk_vid=f0541747e7efdde9175914584554c7c2">Nexus</a> |
-  <a href="https://discord.gg/55kHAH7T6t">Discord</a> |
-  <a href="https://loadorderlibrary.com/lists/">Load Order</a> |
-  <a href="/#/guide">Gameplay Guide</a>
+  <a href="/#/GUIDE">Gameplay Guide</a> |
+  <a href="https://next.nexusmods.com/profile/Yuuri0?pk_vid=f0541747e7efdde9175914584554c7c2" target="_blank">Nexus</a> |
+  <a href="https://discord.gg/55kHAH7T6t" target="_blank">Discord</a> |
+  <a href="https://loadorderlibrary.com/lists/" target="_blank">Load Order</a> 
 </p>
 
 ---
 ## Introduction
-ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering a bit of everything while emphasizing small details to create a good modern RPG-like experience where I can just play Skyrim without worrying about anything else. Consistency is key, optimized for good FPS, and every important location is designed to feel distinct and memorable, with its own atmosphere. Ment to be played with little UI as possible.
+ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering a bit of everything while emphasizing small details to create a good modern RPG-like experience where I can just play Skyrim without worrying about anything else. Consistency is key, optimized for good FPS, every important location is designed to feel distinct and memorable, with its own atmosphere. Ment to be played with very little UI elements as possible.
 
 ## System Requirements
 |  | Minimum | Medium | Best Experience
