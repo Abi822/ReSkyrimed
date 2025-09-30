@@ -64,7 +64,7 @@ Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (
 
 > [!TIP]
 > ### Nexus Download
-> Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets your mod manager auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
+> Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets Wabbajack auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
 > ### Out of space?
 > If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
 
