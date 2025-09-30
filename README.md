@@ -110,6 +110,8 @@ Share your crash log at `#🔧share-crashlogs`
 
 The more it crashes, the more information I can gather about the root cause.
 
+### Game bugs and issues
+Share at `#📁bug-reports` 
 
 ## FAQ
 ### Can I uncap the FPS.
