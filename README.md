@@ -158,7 +158,7 @@ ReSkyrimed, I think, is a little bit of a weird modlist that follows a single-pe
 
 ### Special thanks to:
 [riverbord](https://next.nexusmods.com/profile/riverbord?gameId=1704) Giving a lot of assistance! Early days of modding!\
-[ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance! Check out [Skyrim Unification Project ](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Basiclly ReSkyrimed on Steroids!\
+[ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance! Check out [Skyrim Unification Project ](https://skyrimunificationproject.github.io/) Basiclly ReSkyrimed on Steroids!\
 [GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux issues & hot fixes.\
 [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads issues.
 
