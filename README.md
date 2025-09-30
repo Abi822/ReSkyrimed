@@ -93,7 +93,7 @@ If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can
 
 ### Steam Setup
 > [!TIP]
-> To follow good modding practice and prevent headaches when installling a Webbajack modlist.
+> To prevent headaches when installling a Webbajack modlist.
 >
 >1) In Steam, [disable automatic updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable) for Skyrim Special Edition.
 >2) Ensure that your Skyrim Special Edition is installed in English.
