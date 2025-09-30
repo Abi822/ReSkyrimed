@@ -24,11 +24,13 @@ ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering
 | Screen | 1920 x 1080 | 1920 x 1080 / 2560 x 1440 | 2560 x 1440 / 3840 x 2160 |
 
 > [!NOTE]
-> 8GB VRAM Cards are not supported or recommended!\
+> 8GB VRAM Cards are not supported or recommended!
+> 
 > Ultrawde Supported.
 
 > [!WARNING]
-> An SSD is required to the play the modlist.\
+> An SSD is required to the play the modlist.
+> 
 > Only Windows 10 or 11 operating systems are supported. 
 
 ## Pre-Installation Requirements
