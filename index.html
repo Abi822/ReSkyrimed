@@ -13,6 +13,21 @@
     media="(prefers-color-scheme: dark)" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <style>
+    :root {
+      --sidebar-width: 300px;
+    }
+
+    .sidebar .sidebar-nav a,
+    .app-sub-sidebar a {
+      white-space: normal;
+      overflow: visible;
+      text-overflow: clip;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+      line-height: 1.4;
+
+    }
+
     @media (prefers-color-scheme: light) {
       :root {
         --theme-color: #42b983;

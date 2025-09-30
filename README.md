@@ -24,11 +24,12 @@ ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering
 | Screen | 1920 x 1080 | 1920 x 1080 / 2560 x 1440 | 2560 x 1440 / 3840 x 2160 |
 
 > [!NOTE]
-> 8GB VRAM Cards are not supported or recommended!
+> 8GB VRAM Cards are not supported or recommended!\
+> Ultrawde Supported.
 
 > [!WARNING]
-An SSD is required to the play the modlist.\
-Only Windows 10 or 11 operating systems are supported. 
+> An SSD is required to the play the modlist.\
+> Only Windows 10 or 11 operating systems are supported. 
 
 ## Pre-Installation Requirements
 > [!WARNING]
@@ -59,7 +60,7 @@ To set up your pagefile:
  2. Install [.NET](https://dotnet.microsoft.com/en-us/download/dotnet) (Maininly .NET 9 for Synthesis & Other tools)
 
 ## Installation
-Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (x86)` this can cause [Windows 255 character limit issue](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry). Make sure everything is done from Root Directory.
+Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (x86)` this can cause [Windows 255 character limit issue](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry), and permission issues. Make sure everything is done from Root Directory.
 
 > [!TIP]
 > ### Nexus Download
@@ -67,10 +68,18 @@ Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (
 > ### Out of space?
 > If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
 
-> [!NOTE]
-> An alert of type 'note' using global style 'callout'.
+### Total Download
+- **Download:** `~130GB`
+- **Install:**  `~140GB` - Including Stock Game Folder
+
 
 ### Steam Setup
+> [!TIP]
+> To follow good modding practice and prevent headaches after Skyrim updates.
+
+1) In Steam, [disable automatic updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable) for Skyrim Special Edition.
+2) Ensure that your Skyrim Special Edition is installed in English.
+3) Ensure that you have installed Creation Club Files
 
 ### Installing Creation Club Files
 
@@ -79,5 +88,51 @@ Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (
 ## Modlist Assistance & Support
 
 ## FAQ
+### Can I uncap the FPS.
+The list is capped at 60 FPS by default. [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) FPS is uncapped. If you wish to uncap the FPS, then you can do so by pressing `END` key in-game. I have purposely left uncap FPS tab open, so It should be easy to find.
+
+### Why is there a FPS cap?
+Most people would say due to the scripting engine limitations, while that is true the main reason behind fps cap is consistency in motion smoothness.
+
+### Can't put an item into Wheeler! 
+Drop and pick up the item again. Usually an issue with items that are added via a script, and not picked by the player.
+
+### I can't power attack?
+Open in game MCM menu -> Click on `BFCO` -> Change `Hotkey: PowerAttack` to your desired button.
+
+### Is this a Vanilla+ list?
+No, and I don’t plan to make it so. There are many other Vanilla+ list that aim to enhance the base game experience, some of them do it very well. ReSkyrimed does not share that goal, nor does it excel as a Vanilla+ experience.
+
+### Can I delete the downloads?
+Yes, after Wabbajack finishes installing. The downside is that you can’t easily update the modlist, if a hotfix is released, you’d have to wait for Wabbajack to redownload over 1,000+ mods again.🫡
+
+### I've modified INI settings, why are they not applying?
+Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI files there.
+
+### I saw ReSkyrimed uses Rootbuilder, does it copy files to Skyrim Steam Install location?
+1) No, for end user Rootbuilder is disabled. 
+2) ReSkyrimed uses Wabbajack’s Stock Game feature to copy your Steam installation of Skyrim into the ReSkyrimed install directory. This leaves your Steam copy untouched and prevents Skyrim updates from breaking the list.
+
+### Wabbajack failed to download Curios Creation Club Content
+Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) made by Wabbajack `Unable to download 'Curios' files` & all other Wabbajack related issues.
+
+## Conclusion
+ReSkyrimed, I think, is a little bit of a weird modlist which follows a single person author’s goals, and separates it from most modlists. It doesn’t have a “catchphrase” like “Next Gen Visual Overhaul” or so. The whole inspiration was heavily taken from what Skyblivion/Oblivion Remaster were doing, and bring that to Skyrim without overdoing it or making you question “is this Skyrim anymore?” If the modlist runs and plays like Skyrim it doesn’t necessarily mean ReSkyrimed is a Vanilla+ modlist as well. Almost every aspect of Skyrim has been touched or changed; not a lot is vanilla.
 
 ## Credits & Thanks
+### I wouldn't even consider making the modlist with out this talented Authors:
+[jkrojmal](https://next.nexusmods.com/profile/jkrojmal?gameId=1704)\
+[gutmaw](https://next.nexusmods.com/profile/gutmaw?gameId=1704)\
+[Ryn2g](https://next.nexusmods.com/profile/Ryn2g?gameId=1704)\
+[snozz2004](https://www.nexusmods.com/skyrimspecialedition/mods/111465)\
+[TheOneTrueFuzzBeed](https://next.nexusmods.com/profile/TheOneTrueFuzzBeed?gameId=1704)\
+[RubberSpaghetti](https://next.nexusmods.com/profile/RubberSpaghetti?gameId=1704)
+
+### Special thanks to:
+[riverbord](https://next.nexusmods.com/profile/riverbord?gameId=1704) Giving a lot of assistance! Early days of modding!\
+[ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance! Check out [Skyrim Unification Project ](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Basiclly ReSkyrimed on Steroids!\
+[GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux issues & hot fixes.\
+[JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads issues.
+
+
+#### And all the Testers from ReSkyrimed Guild Discord Server! <br><br><br><br>
