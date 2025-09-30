@@ -46,7 +46,7 @@ ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering
 > - Your Skyrim game folder
 > - MO2’s virtual file system folder (often in `C:\ProgramData\USVFS`)
 >
-> After adding those, things normally work fine. Some antiviruses (like Norton, Bitdefender, AVG) can be stricter than others; if exclusions don’t help, try temporarily disabling that antivirus or uninstalling. For most people, Windows Defender plus safe, and works plenty well with MO2.
+> After adding those, things normally work fine. Some antiviruses (like Norton, Bitdefender, AVG) can be stricter than others; if exclusions don’t help, try temporarily disabling that antivirus or uninstalling anyways. For most people, Windows Defender plus safe, and works plenty well with MO2.
 
 ### Pagefile and Crash Prevention
 ReSkyrimed has been optimized for better memory usage, but it still demands a lot of RAM, especially if you're on a 16GB system with background tasks running. If the game can't allocate enough memory, you may experience crashes or instability.
