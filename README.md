@@ -37,6 +37,14 @@ ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering
 
 
 ### Antivirus
+>[!WARNING]
+>Antivirus apps sometimes mistake [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced) for something harmful because of how it loads game files. When that happens, MO2, Skyrim, or tools launched through MO2 might not start.
+>You usually don’t need to uninstall your antivirus. The fix is to add exclusions (also called “allow list” or “exceptions”) for:
+> - The MO2 folder
+> - Your Skyrim game folder
+> - MO2’s virtual file system folder (often in `C:\ProgramData\USVFS`)
+>
+> After adding those, things normally work fine. Some antiviruses (like Norton, Bitdefender, AVG) can be stricter than others; if exclusions don’t help, try temporarily disabling that antivirus or uninstalling. For most people, Windows Defender plus safe, and works plenty well with MO2.
 
 ### Pagefile and Crash Prevention
 ReSkyrimed has been optimized for better memory usage, but it still demands a lot of RAM, especially if you're on a 16GB system with background tasks running. If the game can't allocate enough memory, you may experience crashes or instability.
@@ -62,30 +70,37 @@ To set up your pagefile:
 ## Installation
 Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (x86)` this can cause [Windows 255 character limit issue](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry), and permission issues. Make sure everything is done from Root Directory.
 
-> [!TIP]
-> ### Nexus Download
-> Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets Wabbajack auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
-> ### Out of space?
-> If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
+
+### Nexus Download
+Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets Wabbajack auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
+
+### Running out of storage space
+If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
 
 ### Total Download
 - **Download:** `~130GB`
-- **Install:**  `~140GB` - Including Stock Game Folder
+- **Install:**  `~150GB` - Including Stock Game Folder
 
 
 ### Steam Setup
 > [!TIP]
-> To follow good modding practice and prevent headaches after Skyrim updates.
-
-1) In Steam, [disable automatic updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable) for Skyrim Special Edition.
-2) Ensure that your Skyrim Special Edition is installed in English.
-3) Ensure that you have installed Creation Club Files
-
-### Installing Creation Club Files
-
-### Game Language
+> To follow good modding practice and prevent headaches when installling a Webbajack modlist.
+>
+>1) In Steam, [disable automatic updates](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable) for Skyrim Special Edition.
+>2) Ensure that your Skyrim Special Edition is installed in English.
+>3) Ensure that you have installed Creation Club Files.
 
 ## Modlist Assistance & Support
+>Join our [Discord](https://discord.gg/55kHAH7T6t) 
+
+### Need help 
+Send your request in `#🆘support`
+
+### Game Crashed
+Share your crash log at `#🔧share-crashlogs`
+
+The more it crashes, the more information I can gather about the root cause.
+
 
 ## FAQ
 ### Can I uncap the FPS.
