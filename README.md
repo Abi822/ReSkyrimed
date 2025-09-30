@@ -134,14 +134,14 @@ Yes, after Wabbajack finishes installing. The downside is that you can’t easil
 Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI files there.
 
 ### I saw ReSkyrimed uses Rootbuilder, does it copy files to Skyrim Steam Install location?
-1) No, for end user Rootbuilder is disabled. 
+1) No, for end user Rootbuilder is basically disabled. 
 2) ReSkyrimed uses Wabbajack’s Stock Game feature to copy your Steam installation of Skyrim into the ReSkyrimed install directory. This leaves your Steam copy untouched and prevents Skyrim updates from breaking the list.
 
 ### Wabbajack failed to download Curios Creation Club Content
 Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) made by Wabbajack `Unable to download 'Curios' files` & all other Wabbajack related issues.
 
 ## Conclusion
-ReSkyrimed, I think, is a little bit of a weird modlist which follows a single person author’s goals, and separates it from most modlists. It doesn’t have a “catchphrase” like “Next Gen Visual Overhaul” or so. The whole inspiration was heavily taken from what Skyblivion/Oblivion Remaster were doing, and bring that to Skyrim without overdoing it or making you question “is this Skyrim anymore?” If the modlist runs and plays like Skyrim it doesn’t necessarily mean ReSkyrimed is a Vanilla+ modlist as well. Almost every aspect of Skyrim has been touched or changed; not a lot is vanilla.
+ReSkyrimed, I think, is a little bit of a weird modlist that follows a single-person author’s goals, and the things it does separate it from most modlists. It doesn’t have a “catchphrase” like “Next Gen Visual Overhaul”, or so. The whole inspiration was heavily taken from what Skyblivion/Oblivion Remaster were doing, and bringing that to Skyrim without overdoing it or making you question “is this Skyrim anymore?” If the modlist runs and plays like Skyrim, it doesn’t necessarily mean ReSkyrimed is a Vanilla+ modlist as well. Almost every aspect of Skyrim has been touched or changed; not a lot is vanilla.
 
 ## Credits & Thanks
 ### I wouldn't even consider making the modlist with out this talented Authors:
