@@ -1,4 +1,3 @@
-# ReSkyrimed
 ![Banner](https://github.com/Abi822/ReSkyrimed/blob/main/Images/logo.png?raw=true)
 <p align="center">
   <a href="#/README">Read Me</a> |
